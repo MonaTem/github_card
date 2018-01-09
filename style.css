@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
+body {
+  background-color: rgb(153, 153, 153);
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.form {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 3%;
+}
+
+.userInfo {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 3%;
+  padding-bottom: 20%;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 260px;
+  height: 20px;
+  margin-bottom: 1%;
+  font-size: 20px;
+}
+
+.btn {
+  background-color: rgb(73, 73, 73);
+  color: rgb(244, 244, 244);
+  font-family: 'Ubuntu Mono', monospace;
+  font-size: 20px;
+  border: 2px solid rgb(227, 227, 227);
+}
+
+label {
+  font-size: 28px;
+  margin-top: 5%;
+  margin-bottom: 3%;
+}
+
+img {
+  height: 50%;
+  border: 3px solid rgb(50, 50, 50);
+}
